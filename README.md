@@ -5,7 +5,7 @@
 footer {
     padding: 1em;
     color: black;
-    background-color: Gray;
+    background-color: Black;
     clear: left;
     text-align: center;
 }
