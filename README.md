@@ -5,9 +5,9 @@
 footer {
     padding: 1em;
     color: black;
-    background-color: Black;
+    background-color: light blue;
     clear: left;
-    text-align: left;
+    text-align: center;
 }
 </style>
 </head>
