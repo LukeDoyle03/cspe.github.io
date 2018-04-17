@@ -7,7 +7,7 @@ footer {
     color: black;
     background-color: Black;
     clear: left;
-    text-align: center;
+    text-align: left;
 }
 </style>
 </head>
