@@ -2,7 +2,8 @@
 <head>
 <style>
 h1,p {
-    text-shadow: 0 0 3px blue, 0 0 5px red;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 </style>
 </head>
