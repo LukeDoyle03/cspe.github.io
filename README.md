@@ -55,7 +55,7 @@ li a:hover {
 <html>
 <body>
 
-<img src="http://www.stjosephsrush.ie/wp-content/uploads/2018/03/schoolbanner3.png"  width="800" height="200">
+<img src="http://www.stjosephsrush.ie/wp-content/uploads/2018/03/schoolbanner3.png"  width="100%" height="200">
 
 <h1 style="text-align:center;">Action project</h1>
    <strong>Action project</strong>
