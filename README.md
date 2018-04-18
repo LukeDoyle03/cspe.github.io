@@ -13,10 +13,8 @@ h1,p {
 <head>
 <style>
 footer {
-    padding: 1em;
-    color: black;
-    background-color: black;
-    clear: left;
+background-color: black;
+    padding: 10px;
     text-align: center;
 }
 </style>
@@ -70,4 +68,6 @@ li a:hover {
 <h1 style="text-align:center;">Team jobs</h1>
 <p style="color:white;">The role the supply is to get the equipment needed for the clean up such as gloves, pickers and bags and to make sure they were stored safely for the next team.
 
-<footer><p style="color:white;">Contact us:St Joseph's Secondary School, Convent Lane, Rush Co.Dublin, T:01-8437534,F:01-8439690, E:office@stjosephsrush.ie
+<footer><div class="footer">
+  <p>Contact us:St Joseph's Secondary School, Convent Lane, Rush Co.Dublin, T:01-8437534,F:01-8439690, E:office@stjosephsrush.ie</p>
+</div>
