@@ -68,7 +68,7 @@ li a:hover {
 <head>
 <body>
 
-<p><a href="http://www.stjosephsrush.ie"></p>
+<p><a href="http://www.stjosephsrush.ie">
 go to our school website
 </a>
 
