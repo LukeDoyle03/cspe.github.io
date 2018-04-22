@@ -79,12 +79,9 @@ li a:hover {
 <head>
 <body>
 
-<a href="http://www.stjosephsrush.ie">
+<p><a href="http://www.stjosephsrush.ie"></p>
 go to our school website
 </a>
-
-</head>
-</body
 
 <footer><div class="footer">
   <p>Contact us:St Joseph's Secondary School, Convent Lane, Rush Co.Dublin, T:01-8437534,F:01-8439690, E:office@stjosephsrush.ie</p>
