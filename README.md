@@ -225,7 +225,6 @@ function showSlides(n) {
 </script>
 
 </body>
-</html> 
 
    
 <h1 style="text-align:center;">Team jobs</h1>
