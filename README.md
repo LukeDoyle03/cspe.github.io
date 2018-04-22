@@ -75,10 +75,6 @@ li a:hover {
    
 <h1 style="text-align:center;">Team jobs</h1>
 <p class="italic">The role the supply is to get the equipment needed for the clean up such as gloves, pickers and bags and to make sure they were stored safely for the next team.
-
-<footer><div class="footer">
-  <p>Contact us:St Joseph's Secondary School, Convent Lane, Rush Co.Dublin, T:01-8437534,F:01-8439690, E:office@stjosephsrush.ie</p>
-</div>
     
 <head>
 <body>
@@ -89,3 +85,7 @@ go to our school website
 
 </head>
 </body
+
+<footer><div class="footer">
+  <p>Contact us:St Joseph's Secondary School, Convent Lane, Rush Co.Dublin, T:01-8437534,F:01-8439690, E:office@stjosephsrush.ie</p>
+</div>
