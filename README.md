@@ -1,7 +1,4 @@
-<html>
-<head>
-<link rel="shortcut icon" type="img/png" href="img/https://pbs.twimg.com/profile_images/378800000451802088/1a42bb67a4da70af2da4d2288cf9746e.jpeg>
-</head>                                             
+<html>                                       
 <head>
 <style>
 h1,p {
