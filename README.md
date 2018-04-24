@@ -1,6 +1,7 @@
 <html>
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<head>
+<link rel="shortcut icon" type="img/png" href="img/https://pbs.twimg.com/profile_images/378800000451802088/1a42bb67a4da70af2da4d2288cf9746e.jpeg>
+</head>                                             
 <head>
 <style>
 h1,p {
