@@ -1,4 +1,40 @@
 <html> 
+    
+ <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.loader {
+  border: 16px solid green;
+  border-radius: 50%;
+  border-top: 16px solid orange;
+  border-left: 16px solid white;
+  width: 250px;
+  height: 250px;
+  -webkit-animation: spin 2s linear infinite; 
+  animation: spin 2s linear infinite;
+}
+
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+</head>
+<body>
+
+<div class="loader"></div>
+
+</body>
+</html>
+   
+    
 <head> 
 <style>
     
