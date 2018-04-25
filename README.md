@@ -1,14 +1,14 @@
 <html>  
+	<h2 style="text-align:center;">C.S.P.E at st josephs rush</h2>
 <head>
-	<title>C.S.PE at stjosephs rush</title>
-	<link rel="shortcut icon" type="image/png" href="img/favicon.png">
-</head>
-<head>
-<style>
-h1,p,li {
+h1,p,li,h2{
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
+	
+h2 {
+    font-size: 30px;
+}	
 </style>
 </head>
 <head>
