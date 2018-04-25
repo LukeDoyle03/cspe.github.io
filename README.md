@@ -1,4 +1,30 @@
 <html>  
+    <head>
+<meta http-equiv="refresh" content="3;url=web.html" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.loader {
+  border: 16px solid orange;
+  border-radius: 50%;
+  border-top: 16px solid white;
+  border-right: 16px solid green;
+  width: 450px;
+  height: 450px;
+  animation: spin 2s linear infinite;
+  align: middle;
+  padding: 10px;
+  margin: auto;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+</head>
+<body>
+<div class="loader"></div>
+
+</body>
 <head>
 <style>
     
