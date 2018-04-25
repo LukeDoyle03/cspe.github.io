@@ -1,6 +1,5 @@
 <html>  
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon"> 
+ <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
 <head>
 <style>
 h1,p,li {
