@@ -1,6 +1,5 @@
 <html> 
-<head>
- <link rel="icon" href="http://m.img.brothersoft.com/win8/32/324f2f9e-bf79-46b8-85e4-ef5379829f58_icon.png"> 
+<head> 
 <style>
     
 h1,p,li {
