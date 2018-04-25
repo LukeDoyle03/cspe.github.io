@@ -1,6 +1,7 @@
 <html>  
 <head>
-<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+	<title>C.S.PE at stjosephs rush</title>
+	<link rel="shortcut icon" type="image/png" href="img/favicon.png">
 </head>
 <head>
 <style>
