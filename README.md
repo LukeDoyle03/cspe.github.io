@@ -1,14 +1,11 @@
 <html>  
-	<h2 style="text-align:center;">C.S.P.E at st josephs rush</h2>
+	
 <head>
-h1,p,li,h2{
+h1,p,li,{
     color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-shadow: 0 0 25px blue, 0 0 5px darkblue;
 }
 	
-h2 {
-    font-size: 30px;
-}	
 </style>
 </head>
 <head>
