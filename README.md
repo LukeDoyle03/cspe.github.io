@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="shortcut icon" href="http://www.dissolvingboundaries.org/assets/media/schools/St%20Josephs%20S.S.jpg"/>
+<link rel="favicon.ico" href="http://www.stjosephsrush.ie/wp-content/themes/cw-magazine/favicon.ico" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 /* Center the loader */
