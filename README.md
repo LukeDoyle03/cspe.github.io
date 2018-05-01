@@ -14,9 +14,10 @@
   margin: -75px 0 0 -75px;
   border: 16px solid #f3f3f3;
   border-radius: 50%;
-  border-left: 16px solid orange;
-  border-top: 16px solid green;
+  border-left: 16px solid white;
+  border-top: 16px solid red;
   border-right: 16px solid white;
+  border-bottom: 16px solid red;
   width: 120px;
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
