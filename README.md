@@ -246,7 +246,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
+  <img src="http://www.schooldays.ie/schooldays.nsf/0/FCB55CC52D36A283802571D00047F629/$file/St%20Joseph's%20Secondary%20School%2060343T%20(320%20x%20160).jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
