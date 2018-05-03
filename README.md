@@ -311,8 +311,6 @@ go to our school website
   <p>F:01-8439690, 
   <p>E:office@stjosephsrush.ie
 
-</div>
-
 <script>
 var myVar;
 
