@@ -235,19 +235,19 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="https://attachment.outlook.live.net/owa/grantdyl@outlook.ie/service.svc/s/GetAttachmentThumbnail?id=AQMkADAwATM0MDAAMS1jYwA1My0wOWJjLTAwAi0wMAoARgAAA%2FTZbwerPOFEit7DNPlE8BYHAGIl6W58d1BMtkDvd2riNMgAAAIBDAAAAGIl6W58d1BMtkDvd2riNMgAAW1YU4oAAAABEgAQAB8J9auDEv1DkGgKT8Twzk4%3D&thumbnailType=2&X-OWA-CANARY=KXAcMsDZJUaabhgm0zB4ohC7WjpzqNUY-uS1Vf11mMVFDoKebrKsxBsdNMlwtXvGX0lKgYFQy9k.&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkJnRDU5blJpQnpmbk5BVGloOFJhZ1l5M3pyZyJ9.eyJ2ZXIiOiJFeGNoYW5nZS5DYWxsYmFjay5WMSIsImFwcGN0eHNlbmRlciI6Ik93YURvd25sb2FkQDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImFwcGN0eCI6IntcIm1zZXhjaHByb3RcIjpcIm93YVwiLFwicHJpbWFyeXNpZFwiOlwiUy0xLTI4MjctMjEyOTkzLTM0Mjc5OTQwNDRcIixcInB1aWRcIjpcIjkxNDgwMTM5NzI3MDk3MlwiLFwib2lkXCI6XCIwMDAzNDAwMS1jYzUzLTA5YmMtMDAwMC0wMDAwMDAwMDAwMDBcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwifSIsImlzcyI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJhdWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYXR0YWNobWVudC5vdXRsb29rLmxpdmUubmV0QDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImV4cCI6MTUyNDQxNzI2NiwibmJmIjoxNTI0NDE2NjY2fQ.TeqzBgDSwZmUfKXEyaQPJksrOQ9YqahneVeLa-SE2wfZpIf3vEIto01Szecgl7KZadNKa5kRC2Ewn7GsEJmvYkuecgN6QbB6z-rw7mdOFyLIoJMuzcGz7wj86g25pS6JMp_A2fd50mxL7UpKknqhwY3ITWQCeHfnpCZHNl9ynHkQQ4R73Pi-wrDxkwr7ovU3L8kPlb8GAc0moWvis3tNt67wLXbkN_vlDBubHAbfsSMhsjz31aiqUfPDRPSdTi2ivIJeKYHw3jHRjzid3tA6f9g-FSePyQTdKGKIF3E-VHWvcXmuz3637ORRdvDNoMF4KW2Njo9FcdXqSp-r1M8eEg&owa=outlook.live.com&isc=1" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text">Students working on an action project</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="https://attachment.outlook.live.net/owa/grantdyl@outlook.ie/service.svc/s/GetAttachmentThumbnail?id=AQMkADAwATM0MDAAMS1jYwA1My0wOWJjLTAwAi0wMAoARgAAA%2FTZbwerPOFEit7DNPlE8BYHAGIl6W58d1BMtkDvd2riNMgAAAIBDAAAAGIl6W58d1BMtkDvd2riNMgAAW1YU4sAAAABEgAQALRnv5vfGo9Dkl7QzOsoutg%3D&thumbnailType=2&X-OWA-CANARY=zZpUAV4CTU2VA2HsDlyTEiCpN0N2qNUYsLN3A14PsgBhbFCsEGTKAno8PY1SLL5ZgJ1scF1ZupA.&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IkJnRDU5blJpQnpmbk5BVGloOFJhZ1l5M3pyZyJ9.eyJ2ZXIiOiJFeGNoYW5nZS5DYWxsYmFjay5WMSIsImFwcGN0eHNlbmRlciI6Ik93YURvd25sb2FkQDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImFwcGN0eCI6IntcIm1zZXhjaHByb3RcIjpcIm93YVwiLFwicHJpbWFyeXNpZFwiOlwiUy0xLTI4MjctMjEyOTkzLTM0Mjc5OTQwNDRcIixcInB1aWRcIjpcIjkxNDgwMTM5NzI3MDk3MlwiLFwib2lkXCI6XCIwMDAzNDAwMS1jYzUzLTA5YmMtMDAwMC0wMDAwMDAwMDAwMDBcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwifSIsImlzcyI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEiLCJhdWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYXR0YWNobWVudC5vdXRsb29rLmxpdmUubmV0QDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImV4cCI6MTUyNDQxODYwNywibmJmIjoxNTI0NDE4MDA3fQ.cgzqSgkyvhNuTGtKTmvFy2xCXu0rbEK6qOXacK1r4nHiHu0bkKlNEzjtBWJY7VC5ghRfebezdfz3ZSaJVuCoMtn-0O5iPL6B9B6u5zI0_RYz6N3Mth5F2Urj6nEy15ckJN86bh7hys4whIIT60vo05Qa-juR3YKp2iCx8m4cCnvU-1kVbYCIiwTEBrC9Q5bCGt3DTrAOibX2KMo6VCvyDop79PDQa87VcNR5FPqMeooRSmmgM8RVFdEC-UKKeekpdW0ZDMy9PH8UgyK5_Hn50KFowAPWa03tLhgAspu2elVbSc-BXJRfTpvxLqHsC_Tut75Xqn_rlqek13OrNoDo_Q&owa=outlook.live.com&isc=1" style="width:100%">
-  <div class="text">Caption Two</div>
+  <img src="https://www.google.ie/imgres?imgurl=http%3A%2F%2Fwww.stjosephsrush.ie%2Fwp-content%2Fuploads%2F2015%2F06%2Fjapanese-garden.jpg&imgrefurl=http%3A%2F%2Fwww.stjosephsrush.ie%2Fpage%2F3%2F&docid=LKQQjbkCRNLA-M&tbnid=SIwEx_DUtnIL7M%3A&vet=10ahUKEwiM4Mze--vaAhVmB8AKHfceAl8QMwhkKCUwJQ..i&w=2186&h=1639&bih=918&biw=1280&q=st%20josephs%20rush%20school&ved=0ahUKEwiM4Mze--vaAhVmB8AKHfceAl8QMwhkKCUwJQ&iact=mrc&uact=8">
+  <div class="text">The schools jubilee garden</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="http://www.schooldays.ie/schooldays.nsf/0/FCB55CC52D36A283802571D00047F629/$file/St%20Joseph's%20Secondary%20School%2060343T%20(320%20x%20160).jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text">The front of the school</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
